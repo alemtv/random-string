@@ -1,1 +1,1 @@
-# random-string
+# C++ random string
